@@ -1,0 +1,21 @@
+L052 is a Go-based command-line utility for managing user access rights in Linux systems.
+The script provides a simple interface for managing sudo group membership and authentication policies.
+
+Key Features:
+- Add users to sudo group
+- Configure passwordless sudo (NOPASSWD)
+- Remove sudo privileges
+- Automatic configuration file creation
+- Operation validation
+
+---------
+
+L052 — это утилита командной строки на Go для управления правами доступа пользователей в Linux-системах.
+Скрипт предоставляет простой интерфейс для управления членством в группе `sudo` и настройки политик аутентификации.
+
+Основные возможности:
+- Добавление пользователей в группу sudo
+- Настройка sudo без пароля (NOPASSWD)
+- Удаление sudo-привилегий
+- Автоматическое создание файлов конфигурации
+- Валидация операций
